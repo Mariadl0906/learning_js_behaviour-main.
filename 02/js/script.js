@@ -16,5 +16,5 @@ lightColorBtn.addEventListener("click", () => {
 })
 
 dreamloveBtn.addEventListener("click", () => {
-   body.style = "background: #bb41d0ff"; 
+   body.style = "background: #ea74ffff"; 
 })
